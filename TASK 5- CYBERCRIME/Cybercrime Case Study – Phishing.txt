@@ -1,0 +1,9 @@
+# Cybercrime Case Study – Phishing
+
+Phishing is a type of cybercrime where attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trusted source.
+
+A typical phishing attack starts when a user receives an email or message that appears to be from a bank or a popular service. The message often creates urgency, such as claiming that the account will be blocked. It includes a link that directs the user to a fake website that looks real. When the user enters their login details or financial information, the attacker captures this data.
+
+Students and young users are common targets because they frequently use online platforms and may not verify sources carefully. The consequences include financial loss, identity theft, and unauthorized access to accounts.
+
+Phishing is dangerous because it exploits human trust rather than technical weaknesses. Awareness and careful verification are the best ways to prevent such attacks.

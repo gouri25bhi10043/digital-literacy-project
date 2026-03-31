@@ -1,0 +1,16 @@
+# Stay Safe Online – Prevention Checklist
+
+## General Safety Tips
+- Never share OTPs, passwords, or PINs with anyone
+- Always check website URLs before entering personal information
+- Avoid clicking on suspicious links in emails or messages
+- Use strong and unique passwords for different accounts
+- Enable two-factor authentication (2FA) wherever possible
+- Keep your apps and devices updated regularly
+
+## UPI / Financial Safety Tips
+- Always verify the receiver’s UPI ID before sending money
+- Do not approve collect requests from unknown people
+- Never scan unknown QR codes to receive money
+- Avoid using public Wi-Fi for financial transactions
+
